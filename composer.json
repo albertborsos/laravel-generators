@@ -1,5 +1,5 @@
 {
-  "name": "laracasts/generators",
+  "name": "albertborsos/laravel-generators",
   "description": "Extend Laravel 5's generators.",
   "keywords": ["laravel", "generators"],
   "license": "MIT",
@@ -7,7 +7,11 @@
     {
       "name": "Jeffrey Way",
       "email": "jeffrey@laracasts.com"
-    }
+    },
+    {
+      "name": "Albert Borsos",
+      "email": "hello@borsosalbert.hu"
+    },
   ],
   "require": {
     "php": ">=5.4.0",
